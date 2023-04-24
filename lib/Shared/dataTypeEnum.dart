@@ -1,0 +1,1 @@
+enum datatype { CLAIM, TIMESHEET, UNDEFINED}
